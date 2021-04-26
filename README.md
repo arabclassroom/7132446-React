@@ -12,8 +12,8 @@ The exercises in this section can be found on CodePen.
 | Content                                                                                                                                     | Begin                                                                     | Solution                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | [Chapter 1](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7137561-tirez-le-maximum-de-ce-cours)                         | /                                                                         | /                                                              |
-| [Chapter 2](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7134597-apprehendez-la-logique-de-react)                      | [Beginning of the exercise](https://codepen.io/nicolaspatschkowski/pen/ExgrqLV) | [Solution](https://codepen.io/nicolaspatschkowski/pen/vYXVqod) |
-| [Chapter 3](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7134800-ecrivez-du-code-modulaire-avec-les-composants-en-jsx) | [Beginning of the exercise](https://codepen.io/nicolaspatschkowski/pen/JjRmgdJ) | [Solution](https://codepen.io/nicolaspatschkowski/pen/MWjPNaa) |
+| [Chapter 2](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7134597-apprehendez-la-logique-de-react)                      | [Beginning of the exercise](https://codepen.io/chokri-samali/pen/poRLypm) | [Solution](https://codepen.io/chokri-samali/pen/PoWRNQe) |
+| [Chapter 3](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7134800-ecrivez-du-code-modulaire-avec-les-composants-en-jsx) | [Beginning of the exercise](https://codepen.io/chokri-samali/pen/gOgerMG) | [Solution](https://codepen.io/chokri-samali/pen/oNBqxzz) |
 
 ### Part 2 - Create your first complete application with Create React App
 
